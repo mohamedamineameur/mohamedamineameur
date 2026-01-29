@@ -6,7 +6,7 @@
 💼 With over 2 years of experience, I specialize in delivering scalable applications, crafting APIs, and building effective solutions for real-world problems.
 💡 I’m looking to collaborate on open-source projects, AI-based solutions, and challenging backend systems.
 💬 Let’s connect to share knowledge and collaborate on innovative ideas that push the boundaries of technology.
-📫 How to reach me: [mohamed.amine.ameur1@gmail.com] | https://www.linkedin.com/in/ameur-mohamed-amine/?locale=en_US 
+📫 How to reach me: [mohamed.amine.ameur1@gmail.com] | https://www.linkedin.com/in/ameur-mohamed-amine/?locale=en_US | https://portfolio.codecraftnest.ca/
 
 🚀 My Stack:
 
